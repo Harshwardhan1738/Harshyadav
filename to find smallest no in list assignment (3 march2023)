@@ -1,0 +1,5 @@
+#to find smallest no in list
+list1=[5,7,9,14,10,20,4]
+list1.sort()
+print(list1)
+print("the smallest no in the lis is: ",list1[0])
